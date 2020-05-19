@@ -1,28 +1,20 @@
-// @Matt TODO: #current do this
 module.exports = {
-  title: 'BIS Data Pipeline Reference',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'USGS Bis Reference',
+  url: 'https://usgs-bis.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'usgs-bis', // Usually your GitHub org/user name.
-  projectName: 'bis-pipeline-docs', // Usually your repo name.
+  projectName: 'usgs-bis.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'BIS Data Pipeline Reference',
+      title: 'USGS Bis Reference',
       logo: {
         alt: 'USGS',
         src: 'img/logo.png',
       },
       links: [
         {
-          to: 'docs/pipeline',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {
-          // @Matt TODO: make this correct
-          href: 'https://github.com/usgs-bis/bis-data-pipeline',
+          href: 'https://github.com/usgs-bis',
           label: 'GitHub',
           position: 'right',
         },

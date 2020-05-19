@@ -1,7 +1,7 @@
 ---
-id: pipeline
-title: Bis Data Pipeline
-sidebar_label: Bis Pipeline
+id: pipeline_overview
+title: Pipeline Overview
+sidebar_label: Overview
 ---
 
 # Running external scripts in the pipeline

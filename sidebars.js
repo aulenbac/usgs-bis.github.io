@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    "BIS Data Pipeline": ['doc1', 'doc2', 'doc3'],
+    "BIS Data Pipeline": ['pipeline_overview'],
   },
 };
