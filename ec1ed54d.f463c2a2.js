@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{106:function(e){e.exports=JSON.parse('{"docsSidebars":{"someSidebar":[{"type":"category","label":"BIS Data Pipeline","items":[{"type":"link","label":"Overview","href":"/pipeline_overview"}]}]},"permalinkToSidebar":{"/pipeline_overview":"someSidebar"}}')}}]);
