@@ -25,7 +25,6 @@ $ npm run build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
-@Matt TODO: use github ci/cd instead
 
 ```
 $ GIT_USER=<Your GitHub username> USE_SSH=true npm run deploy
